@@ -1,0 +1,4 @@
+BoolBool
+========
+
+Some boolean functions
